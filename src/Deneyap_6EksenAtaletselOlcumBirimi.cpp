@@ -17,8 +17,6 @@ Library includes:
 
 #include <Arduino.h>
 #include "Deneyap_6EksenAtaletselOlcumBirimi.h"
-
-#include "Deneyap_9EksenAtaletselOlcumBirimi.h"
 #include <Wire.h>
 
 /**
